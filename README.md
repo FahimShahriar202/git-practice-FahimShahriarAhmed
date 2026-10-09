@@ -15,3 +15,6 @@ plus basic calculator functions.
 ```bash
 python src/main.py
 ```
+
+## Author Notes
+Built as part of a Git practice assignment.
