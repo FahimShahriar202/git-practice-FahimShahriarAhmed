@@ -1,6 +1,17 @@
 # Git Practice Project
 
-Author: Fahim Shahriar Ahmed
+**Author:** Fahim Shahriar Ahmed
 
-This project is a simple Python program that prints my name and today's date.
-It is used to practice Git: commits, branches, merging, and pushing to GitHub.
+## Description
+A simple Python program that prints my name and today's date,
+plus basic calculator functions.
+
+## Project Structure
+- `src/main.py` - main program
+- `src/utils.py` - calculator functions
+- `docs/project-description.md` - project details
+
+## How to Run
+```bash
+python src/main.py
+```
